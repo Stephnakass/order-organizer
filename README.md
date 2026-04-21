@@ -1,4 +1,4 @@
-# Order Organizer (Python)
+# Order Organizer
 
 ## Overview
 This project is a command-line Python tool that allows users to enter and organize customer orders. It collects customer names and order totals, then calculates and displays total sales.
